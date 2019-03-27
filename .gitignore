@@ -1,5 +1,13 @@
+# Platformio
+.pio*
+.clang_complete
+.gcc-flags.json
+.travis.yml
+
 # Prerequisites
 *.d
+
+test
 
 # Compiled Object files
 *.slo
